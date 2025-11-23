@@ -9,7 +9,28 @@ class Hhm extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Container(
-          child: Text('Xawayaan ilaahay dilay'),
+          child: Column(
+            children: [
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+              Text('Xawayaan ilaahay dilay'),
+            ],
+          ),
         ),
       ),
     );
